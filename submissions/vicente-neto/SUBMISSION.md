@@ -20,7 +20,7 @@ A entrega tem quatro partes, todas reprodutíveis a partir dos 5 CSVs:
 
 | Entregável | O que é | Arquivo |
 |---|---|---|
-| **Painel de diagnóstico fase a fase** | Dashboard interativo com 11 fases (0 a 10). Cada número leva à fonte de dados que o gerou | [Link do painel](https://claude.ai/artifact/HNmaQcLqcSEXyxg6wfyKgA) *(privado até ser compartilhado)* |
+| **Painel de diagnóstico fase a fase** | Dashboard interativo com 11 fases (0 a 10). Cada número leva à fonte de dados que o gerou | Link Painel (https://claude.ai/artifact/HNmaQcLqcSEXyxg6wfyKgA) *(privado até ser compartilhado)* |
 | **Relatório para o CEO** | Diagnóstico com resumo executivo, causa raiz, hipóteses, modelo e ações com base nos dados | `diagnostico_churn_ravenstack.md` |
 | **Painel executivo** | Uma página: o que se pode e o que não se pode afirmar | `dashboard_ceo_churn.html` |
 | **Tabela mestre para Supabase/Lovable** | 500 contas × 106 colunas, gerada por SQL | `build_accounts_master.sql`, `accounts_master.csv` |
